@@ -5,7 +5,7 @@ It allows scalable learning of global, multi-task and multiple local Mahalanobis
 
 SCML is distributed under GNU/GPL 3 license.
 
-## Usage
+## Getting started
 
 Please run (inside the matlab console)
 ```
